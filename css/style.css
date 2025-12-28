@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content:center;
+    gap : 24px;
+    font-family:"Georgia";
+    line-height: 3;
+    
+
+    font-size: 30px;
+    background-color:aliceblue;
+} 
+h1{
+    font-family: "Copperplate";
+    font-style:italic;
+    font-size: 40px;
+    color: rgb(7, 46, 46);
+    font-variant: small-caps;
+    line-height: 200%;
+    background-color: azure;
+    text-align: center;
+
+}
+p{
+    font-family:"Verdana";
+    font-size: medium;
+
+    width:300;
+
+}
+a{
+    background-color: white;
+    color: rgb(24, 183, 183);
+}
+#dog{
+    display: block;
+    margin: 0 auto;
+}
+
+
